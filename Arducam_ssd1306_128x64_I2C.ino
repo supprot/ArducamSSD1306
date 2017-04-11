@@ -7,7 +7,7 @@
 /*
 HardWare I2C pins
 A4   SDA
-A5  SCL
+A5   SCL
 */
 
 // Pin definitions
